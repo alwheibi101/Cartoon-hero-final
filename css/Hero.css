@@ -1,0 +1,32 @@
+body{
+margin: 0;
+}
+
+
+header {
+	background-color:green;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px; 
+
+}
+
+
+header h1{
+	color: white;
+
+}
+
+h1,h2
+{font-family: 'Press Start 2P', cursive;}
+
+header img {
+	border-radius:170px;
+	width:300px;
+	border:20px solid white; 
+}
+
+
+<main>
+p{color: gold}
+p{font-family: }
